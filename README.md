@@ -28,35 +28,49 @@ This repository contains an in-depth analysis of wine sales data for Wiwino, cov
 
 ## Analysis Results
 
-### 1. Top 10 Wines to Increase Sales for Wiwino
+### 1. Top 10 Wines to Increase Sales for Wiwino:**
 
-   This section identifies the top 10 wines recommended for increasing sales based on their high ratings and popularity among customers. Wines are ranked based on their rating product, calculated by multiplying the average rating by the ratings count.
+Explanation: These wines are identified as the top performers in terms of potential sales increase for Wiwino based on their high ratings and popularity among customers. The list is sorted by the product of the wine's average rating and the number of ratings it has received, indicating both quality and quantity of customer feedback.
 
-### 2. Top 10 Countries to Prioritize Marketing Budget
+Result: The top 10 wines include prestigious Champagne brands like Laurent-Perrier, Krug, and Dom Pérignon, as well as renowned red wines such as Caymus Cabernet Sauvignon and Antinori Tignanello. These wines have garnered significant attention and positive reviews, making them strong candidates for boosting sales.
 
-   Prioritizes countries for marketing efforts based on the number of users or customers in each country. The ranking helps Wiwino allocate marketing budgets effectively to target regions with the highest potential for sales growth.
+### 2. Top 10 Countries to Prioritize Marketing Budget:**
 
-### 3. Country Leaderboard Based on Average Wine Rating
+Explanation: This ranking prioritizes countries where Wiwino should allocate marketing resources based on the number of users or customers in each country. A higher user count suggests a larger potential customer base and hence greater marketing opportunities.
 
-   Ranks countries based on the average rating of wines produced within each country. This ranking provides insights into the overall quality and reputation of wines from different regions, helping Wiwino understand consumer preferences and market trends.
+Result: The United States tops the list with the highest number of users (12,273,684), followed by France, Italy, Germany, and Spain. These countries offer significant market potential for Wiwino's products and services, warranting focused marketing efforts to capitalize on their user base.
 
-### 4. Top 3 Wines and Their Corresponding IDs
+### 3. Country Leaderboard Based on Average Wine Rating:**
 
-   Highlights the top three wines along with their corresponding IDs. This information allows Wiwino to track the performance of these specific wines and analyze factors contributing to their success, such as grape variety, region, and marketing strategies.
+Explanation: This leaderboard ranks countries based on the average rating of wines produced within each country. A higher average rating indicates a stronger overall reputation for producing high-quality wines.
 
-### 5. Unique Group Names and Their Corresponding Keywords
+Result: Germany leads the leaderboard with the highest average wine rating (4.5), followed by Israel, the United States, Moldova, and Hungary. These countries have established themselves as producers of exceptional wines, contributing to their positive reputation in the wine industry.
 
-   Provides insights into specific flavor profiles or characteristics associated with different wine groups. By understanding these flavor profiles, Wiwino can better curate its wine selection and offer recommendations to customers based on their preferences.
+### 4. Top 3 Wines and Their Corresponding IDs:**
 
-### 6. Top 5 Grapes and Their Corresponding Names and Taste
+Explanation: This section highlights the top three wines along with their corresponding IDs, focusing on their individual performance in terms of ratings and popularity.
 
-   Showcases the top five grape varieties along with their respective taste characteristics. This information helps Wiwino educate customers about different grape varieties and guide them in selecting wines based on their preferred taste profiles.
+Result: The top three wines include Cabernet Sauvignon, Brut Champagne, and Tignanello. These wines have received high ratings and accumulated a significant number of ratings, indicating their widespread appeal among wine enthusiasts.
 
-### 7. Top 5 Cabernet Sauvignon Recommendations for VIP Client
+### 5. Unique Group Names and Their Corresponding Keywords:**
 
-   Recommends the top five Cabernet Sauvignon wines tailored for VIP clients. The recommendations take into account factors such as average rating, rating count, and price, ensuring that VIP clients receive high-quality wines that suit their preferences and budget.
+Explanation: Group names and their corresponding keywords provide insights into specific flavor profiles or characteristics associated with different wine groups, helping customers identify wines based on their taste preferences.
 
-## How to Use
+Result: The unique group names include citrus fruit, floral, earth, non-oak, microbio, tree fruit, and oak, each associated with distinct flavor profiles such as citrus, floral notes, earthy undertones, and oak influences.
+
+###  6. Top 5 Grapes and Their Corresponding Names and Taste:**
+
+Explanation: This section showcases the top five grape varieties along with their respective names and taste characteristics, offering valuable information for customers seeking wines made from specific grape varieties.
+
+Result: The top five grapes include Shiraz/Syrah, Cabernet Sauvignon, Chardonnay, Malbec, and Merlot, each contributing unique flavors and aromas to the wines they produce, ranging from bold and fruity to elegant and complex.
+
+### 7. Top 5 Cabernet Sauvignon Recommendations for VIP Client:**
+
+Explanation: These recommendations highlight the top five Cabernet Sauvignon wines tailored for a VIP client, considering factors such as average rating, rating count, and price.
+
+Result: The top Cabernet Sauvignon recommendations feature prestigious wines such as Caymus Cabernet Sauvignon, Buena Vista Chateau Buena Vista Cabernet Sauvignon, and Silver Oak Alexander Valley Cabernet Sauvignon. These wines offer exceptional quality and are well-suited for VIP clients looking for premium wine selections.
+
+### How to Use
 
 Clone this repository to your local machine to access the analysis report and recommendations. Review the results in detail and utilize the insights to make informed business decisions, optimize marketing strategies, and enhance wine sales for Wiwino.
 
