@@ -1,0 +1,11 @@
+Top 10 countries to prioritize marketing budget:
+('États-Unis', 12273684)
+('France', 5973301)
+('Italie', 4270717)
+('Allemagne', 2549989)
+('Espagne', 2264396)
+('Suisse', 1601799)
+('Portugal', 1123535)
+('Australie', 1022965)
+('Argentine', 629532)
+('Chili', 326757)

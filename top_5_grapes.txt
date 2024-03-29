@@ -1,0 +1,6 @@
+Top 5 grapes and their corresponding names and taste:
+Grape ID: 1, Wine_count: 551112, Grape Name: Shiraz/Syrah
+Grape ID: 2, Wine_count: 801751, Grape Name: Cabernet Sauvignon
+Grape ID: 5, Wine_count: 604208, Grape Name: Chardonnay
+Grape ID: 9, Wine_count: 219735, Grape Name: Malbec
+Grape ID: 10, Wine_count: 566719, Grape Name: Merlot

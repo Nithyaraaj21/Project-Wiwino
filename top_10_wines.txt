@@ -1,0 +1,11 @@
+Top 10 wines to increase sales for Wiwino:
+Wine: Laurent-Perrier Brut Cuvée Champagne Rosé,  Average Rating: 4.4, Rating Count: 36681, Rating Product: 161396.40000000002
+Wine: Krug Grande Cuvée,  Average Rating: 4.6, Rating Count: 28513, Rating Product: 131159.8
+Wine: Billecart-Salmon Brut Rosé Champagne,  Average Rating: 4.4, Rating Count: 23241, Rating Product: 102260.40000000001
+Wine: Dom Pérignon Brut Champagne 2006,  Average Rating: 4.6, Rating Count: 21121, Rating Product: 97156.59999999999
+Wine: Ruinart Brut Rosé Champagne,  Average Rating: 4.4, Rating Count: 21147, Rating Product: 93046.8
+Wine: San Marzano 60 Sessantanni Old Vines Primitivo di Manduria 2017,  Average Rating: 4.5, Rating Count: 17090, Rating Product: 76905.0
+Wine: Opus One Overture,  Average Rating: 4.5, Rating Count: 16804, Rating Product: 75618.0
+Wine: Caymus Cabernet Sauvignon 2019,  Average Rating: 4.6, Rating Count: 15647, Rating Product: 71976.2
+Wine: Dom Pérignon Brut Champagne 2004,  Average Rating: 4.6, Rating Count: 14650, Rating Product: 67390.0
+Wine: Antinori Tignanello 2016,  Average Rating: 4.6, Rating Count: 13709, Rating Product: 63061.399999999994

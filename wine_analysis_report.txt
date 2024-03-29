@@ -1,0 +1,28 @@
+Top 10 wines to increase sales for Wiwino:
+1: Laurent-Perrier Brut Cuvée Champagne Rosé - Rating Product: 161396.40000000002
+2: Krug Grande Cuvée - Rating Product: 131159.8
+3: Billecart-Salmon Brut Rosé Champagne - Rating Product: 102260.40000000001
+4: Dom Pérignon Brut Champagne 2006 - Rating Product: 97156.59999999999
+5: Ruinart Brut Rosé Champagne - Rating Product: 93046.8
+6: San Marzano 60 Sessantanni Old Vines Primitivo di Manduria 2017 - Rating Product: 76905.0
+7: Opus One Overture - Rating Product: 75618.0
+8: Caymus Cabernet Sauvignon 2019 - Rating Product: 71976.2
+9: Dom Pérignon Brut Champagne 2004 - Rating Product: 67390.0
+10: Antinori Tignanello 2016 - Rating Product: 63061.399999999994
+
+Explanation:
+
+    This analysis explores the top 10 wines based on their rating products.
+    The rating product is calculated by multiplying the average rating by the rating count.
+    
+Bar Chart of Top 10 Wines Rating Products (Textual Representation):
+1: ██████████████████████████████████████████████████
+2: ████████████████████████████████████████
+3: ███████████████████████████████
+4: ██████████████████████████████
+5: ████████████████████████████
+6: ███████████████████████
+7: ███████████████████████
+8: ██████████████████████
+9: ████████████████████
+10: ███████████████████

@@ -1,0 +1,21 @@
+Country leaderboard based on average wine rating:
+-------------------------------------------------
+Country                        Average Rating 
+-------------------------------------------------
+Allemagne                      4.500000000000001
+Israël                         4.5            
+États-Unis                     4.4905405405405405
+Moldavie                       4.4799999999999995
+Hongrie                        4.472727272727273
+Afrique du Sud                 4.459090909090909
+Australie                      4.458333333333333
+France                         4.447129909365562
+Espagne                        4.4436170212765935
+Portugal                       4.435714285714287
+Chili                          4.43125        
+Italie                         4.430026109660581
+Argentine                      4.417391304347826
+Roumanie                       4.4            
+Grèce                          4.4            
+Suisse                         4.35           
+Croatie                        4.3            

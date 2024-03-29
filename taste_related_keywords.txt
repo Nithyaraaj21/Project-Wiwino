@@ -1,0 +1,15 @@
+Keywords and their corresponding IDs:
+Keyword ID: 106, Keyword: citrus
+Keyword ID: 107, Keyword: citrus blossom
+Keyword ID: 108, Keyword: citrus oil
+Keyword ID: 109, Keyword: citrus zest
+Keyword ID: 117, Keyword: coffee
+Keyword ID: 123, Keyword: cream
+Keyword ID: 195, Keyword: green apple
+Keyword ID: 209, Keyword: ground coffee
+Keyword ID: 214, Keyword: hazelnut cream
+Keyword ID: 417, Keyword: toast
+Keyword ID: 418, Keyword: toasted almond
+Keyword ID: 419, Keyword: toasted bread
+Keyword ID: 420, Keyword: toasted marshmallow
+Keyword ID: 421, Keyword: toasted nuts

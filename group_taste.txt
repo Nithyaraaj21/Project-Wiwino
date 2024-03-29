@@ -1,0 +1,15 @@
+Unique Group names and their corresponding keywords:
+Group Name: citrus_fruit
+Keywords: citrus, citrus zest
+Group Name: floral
+Keywords: citrus blossom
+Group Name: earth
+Keywords: ground coffee, citrus oil
+Group Name: non_oak
+Keywords: hazelnut cream, toasted nuts, coffee, toasted almond
+Group Name: microbio
+Keywords: toasted bread, cream, toast
+Group Name: tree_fruit
+Keywords: green apple
+Group Name: oak
+Keywords: toasted marshmallow

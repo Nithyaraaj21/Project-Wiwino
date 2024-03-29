@@ -1,0 +1,4 @@
+Top 3 wines and their corresponding IDs:
+Wine ID: 66284, Name: Cabernet Sauvignon, Average Rating: 4.6, Rating Count: 157944, Rating Product: 726542.3999999999, Country: États-Unis
+Wine ID: 86684, Name: Brut Champagne, Average Rating: 4.6, Rating Count: 146377, Rating Product: 673334.2, Country: France
+Wine ID: 1652, Name: Tignanello, Average Rating: 4.5, Rating Count: 142513, Rating Product: 641308.5, Country: Italie
